@@ -1,7 +1,7 @@
 #changing items
-#names = ["omalicha", "tessy", "babes", "oluomachi"]
-#names[2]="oma"
-#print(names)
+names = ["omalicha", "tessy", "babes", "oluomachi"]
+names[2]="oma"
+print(names)
 
 #append items
 #fruits= ["orange", "banana", "pineapple", "water melon"]
@@ -9,6 +9,5 @@
 #print(fruits)
 
 #delete items
-fruits= ["orange", "banana", "pineapple", "water melon"]
-del fruits [-2]
-print(fruits)
+#del fruits [-2]
+#print(fruits)
